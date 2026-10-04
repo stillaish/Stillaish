@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Aish Maheshwari 👋</h1>
-<h3 align="center">💻 4th-year CSE Student | Aspiring Software Development Engineer | Hackathon Enthusiast</h3>
+<h3 align="center">💻 4th-year CSE Student |  Software Development Engineer | </h3>
 
 ---
 
